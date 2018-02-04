@@ -1,6 +1,13 @@
-/* 1.1 Below are a sequence of expressions. What is the result printed by the interpreter in response to each expression? Assume that the sequence iss to be evaluated in the order in which it is presented. */
+/* 1.1 Below are a sequence of expressions. What is the result printed by the interpreter in response to each expression? I will often Lisp */
 
 10 //10
+
+//In Lisp (+ 5 3 4)
+
+
+
+
+
 
 /* 1.2 Translate the following expression into prefix form */
 
